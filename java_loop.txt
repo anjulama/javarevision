@@ -1,0 +1,15 @@
+public class loops {
+
+			  public static void main(String[] args) { 
+			  // TODO Auto-generated method stub 
+			  // for loop  
+			   
+			//  for(initialization ; conditionCheck ; increment/decrement) { 
+			//  } 
+			   
+			  // print from  0 - 2 
+			   
+			  for(int i = 0 ; i < 3 ;i++) { // i- 1 , 2 , 3 
+			   System.out.println(i); // 0 , 1 , 2 
+			  
+			  } 
