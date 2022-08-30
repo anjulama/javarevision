@@ -7,9 +7,9 @@ public class loops {
 			//  for(initialization ; conditionCheck ; increment/decrement) { 
 			//  } 
 			   
-			  // print from  0 - 2 
+			  // print from  0 - 3 
 			   
-			  for(int i = 0 ; i < 3 ;i++) { // i- 1 , 2 , 3 
+			  for(int i = 0 ; i < 4 ;i++) { // i- 1 , 2 , 3 
 			   System.out.println(i); // 0 , 1 , 2 
 			  
 			  } 
